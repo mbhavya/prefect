@@ -160,7 +160,7 @@ dev = [
     "respx>=0.22.0",
     "codespell==2.4.1",
     "ruff==0.12.8",
-    "mypy==1.15.0",
+    "mypy==1.18.1",
     "types-cachetools>=5.3.1",
     "types-PyYAML>=6.0.12",
     "types-dateparser>=1.2.0",
